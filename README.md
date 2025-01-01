@@ -1,4 +1,4 @@
-#FRANCAIS
+# FRANCAIS
 # Rapport de Stage : Détection et Suivi d'Objets Routiers par Apprentissage Profond
 
 ## Contexte
@@ -21,7 +21,7 @@ Ce projet vise à développer des méthodes basées sur l'apprentissage profond 
 ## Fichiers Inclus
 - `rapport_final.pdf` : Rapport détaillé du stage.
 
-#ENGLISH
+# ENGLISH
 - # Internship Report: Road Object Detection and Tracking Using Deep Learning
 
 ## Context
