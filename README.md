@@ -42,4 +42,3 @@ This project focuses on developing deep learning-based methods for detecting roa
 - Object tracking accuracy: **71.01%**.
 
 ## Included Files
-- `report_final_en.pdf` : Detailed internship report.
